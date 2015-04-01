@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(ariacloudbilling:my-processor) -->
+    <ariacloudbilling:my-processor content="#[map-payload:content]" />
+<!-- END_INCLUDE(ariacloudbilling:my-processor) -->
